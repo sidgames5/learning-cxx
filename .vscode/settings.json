@@ -4,6 +4,7 @@
         "*.dat": "json",
         "*.json5": "jsonc",
         "ostream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "cmath": "cpp"
     }
 }
